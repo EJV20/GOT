@@ -20,7 +20,7 @@ README FOR PICKEM FOR SEASON OF GAME OF THRONES
 	- You can't make any changes but you can make multiple text 
 	  files using different names
 	  or overwrite previous versions if you use the same name
-	- Once you're done email it to me, Jeff, at "ejv20@pitt.edu"
+	- Once you're done email it to me, Jeff, at "jvitunac@gmail.com"
 	  and I'll let the winner know after the season ends. I plan
 	  on waiting on couple days incase anyone isn't caught up.
 
