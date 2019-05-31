@@ -5,8 +5,6 @@ README FOR PICKEM FOR SEASON OF GAME OF THRONES
 	- points for correct bonus question
 	- You can put no one for killing the night king
 	  if you beleive he wont die
-	- I, Jeff Vitunac, get final say and I most likely won't be a 
-	  dick about but you never know. JK, I won't <3 <3 <3
 
 2. How to submit
 	- Run on windows 10 machine
@@ -23,7 +21,3 @@ README FOR PICKEM FOR SEASON OF GAME OF THRONES
 	- Once you're done email it to me, Jeff, at "jvitunac@gmail.com"
 	  and I'll let the winner know after the season ends. I plan
 	  on waiting on couple days incase anyone isn't caught up.
-
-3. Disclaimer
-	- I am not liable for anything.
-	- 
