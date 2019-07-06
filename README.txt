@@ -1,3 +1,12 @@
+GOT season 8 pickem
+ - Make choices on what you think will happen in season 8 of Game of Thrones
+ 
+What I learned
+ - Tkinter
+ - Improved skill using Python
+ - Making exe files out of py files
+ - making efficient GUI's
+
 README FOR PICKEM FOR SEASON OF GAME OF THRONES
 
 1. Rules
